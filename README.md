@@ -22,4 +22,5 @@ Una línea aérea quiere implementar un sistema para la venta de boletos de avi�
 9. Comprar 5 vuelos más y mostrar el total que ha ganado la aerolínea.    
 10. Mostrar que vuelo tiene más asientos disponibles.    
 11. Mostrar que vuelo tiene menos asientos disponibles.    
+
 ***Cada compra de vuelo debe restar 1 a los asientos disponibles en el avión***   
